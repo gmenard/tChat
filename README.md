@@ -3,9 +3,9 @@ tChat
 
 Client-server chat application.
 
-This application started from a school project.
+This application started from a school project at EFREI.
 In a nutshell, this application allows several users to authenticate, and create/join chat rooms with topics.
 
 
 
-To be continued...
+Development to be continued...
